@@ -13,12 +13,12 @@ export default class Header extends Component {
                         <ul>
                             <li>
                                <a href="https://#" className="menu__links" > 
-                                    Link 
+                                    Sign in 
                                </a>
                             </li>
                             <li >
                                 <a href="https://#" className="menu__links">
-                                    Link
+                                    Sign up
                                 </a>
                             </li>
                         </ul>
