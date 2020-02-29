@@ -6,4 +6,3 @@
    (Симулируем медленный интернет). Карточка должна показываться сразу и иметь loaders для визуализации загрузки данных.
 5. Для получения данных использовать URL: http://skilltome.softit.cf/api/test_user с Basic авторизацией. 
    Login: JohnSnow  Pass: F4g8e45Degi
-   test test
