@@ -6,3 +6,11 @@
    (Симулируем медленный интернет). Карточка должна показываться сразу и иметь loaders для визуализации загрузки данных.
 5. Для получения данных использовать URL: http://skilltome.softit.cf/api/test_user с Basic авторизацией. 
    Login: JohnSnow  Pass: F4g8e45Degi
+   
+   
+   Basic — наиболее простая схема, при которой username и password пользователя передаются в заголовке Authorization в незашифрованном виде (base64-encoded). Однако при использовании HTTPS (HTTP over SSL) протокола, является относительно безопасной.
+
+Пример HTTP аутентификации с использованием Basic схемы.
+https://habrastorage.org/files/c27/ac0/637/c27ac06373984352a1ebe2f6424cd9e9.png
+
+https://habr.com/ru/company/dataart/blog/262817/
